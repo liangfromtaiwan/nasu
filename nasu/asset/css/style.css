@@ -355,7 +355,7 @@ h4 {
 }
 
 .mv-bg {
-	background-image: url(/asset/img/photo/mv-bg.png);
+	background-image: url(./asset/img/photo/mv-bg.png);
 	background-size: cover;
 	background-position: top;
 }
@@ -423,7 +423,7 @@ h4 {
 
 .nasu-inf .card::before {
 	position: absolute;
-	content: url(/asset/img/icon/card-arrow.png);
+	content: url(./asset/img/icon/card-arrow.png);
 	right: 0;
 	bottom: -2px;
 }
@@ -473,7 +473,7 @@ h4 {
 
 .nasu-inf .announce .btn::after {
 	position: absolute;
-	content: url(/asset/img/icon/button-arrow-blue.png);
+	content: url(./asset/img/icon/button-arrow-blue.png);
 	padding-right: 4px;
 	right: 24px;
 	top: 50%;
@@ -505,7 +505,7 @@ h4 {
 }
 
 .nasu-history {
-	background-image: url(/asset/img/photo/history-bg.png);
+	background-image: url(./asset/img/photo/history-bg.png);
 	background-size: cover;
 }
 
@@ -561,7 +561,7 @@ h4 {
 
 .nasu-history__cnt .btn::after {
 	position: absolute;
-	content: url(/asset/img/icon/button-arrow-white.png);
+	content: url(./asset/img/icon/button-arrow-white.png);
 	padding-right: 16px;
 	top: 50%;
 	right: 0;
@@ -590,7 +590,7 @@ h4 {
 }
 
 .nasu-mainwork__img {
-	background-image: url(/asset/img/photo/mainwork.png);
+	background-image: url(./asset/img/photo/mainwork.png);
 	background-size: cover;
 	width: calc(50% + 40px);
 }
@@ -622,7 +622,7 @@ h4 {
 
 .nasu-mainwork__cnt .btn::after {
 	position: absolute;
-	content: url(/asset/img/icon/button-arrow-blue.png);
+	content: url(./asset/img/icon/button-arrow-blue.png);
 	top: 50%;
 	transform: translateY(-50%);
 	right: 0;
@@ -788,7 +788,7 @@ h4 {
 
 .breadcrumb span:not(:first-child)::before {
 	position: absolute;
-	content: url(/asset/img/icon/breadcrumb-arrow-white.png);
+	content: url(./asset/img/icon/breadcrumb-arrow-white.png);
 	top: 50%;
 	left: -30px;
 	transform: translateY(-50%);
@@ -1079,7 +1079,7 @@ h4 {
 .s-main {
 	padding-top: 225px;
 	background: #FAFAFA;
-	background-image: url(/asset/img/photo/s-nasu__bg.png);
+	background-image: url(./asset/img/photo/s-nasu__bg.png);
 	background-size: 100%;
 	background-position: 50% 479px;
 }
@@ -1112,7 +1112,7 @@ h4 {
 
 .nasuS-show__cards .card::before {
 	position: absolute;
-	content: url(/asset/img/icon/card-arrow.png);
+	content: url(./asset/img/icon/card-arrow.png);
 	right: 0;
 	bottom: -2px;
 }
@@ -1407,7 +1407,7 @@ h4 {
 
 .nasuA-announce__items .item::before {
 	position: absolute;
-	content: url(/asset/img/icon/button-blue.png);
+	content: url(./asset/img/icon/button-blue.png);
 	top: 42px;
 	right: 0;
 	transform: translate(-50%, -50%);
