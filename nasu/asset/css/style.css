@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5 {
 h1 {
 	font-size: 40px;
 	padding-left: 24px;
-	line-height: 40px;
+	line-height: 50px;
 }
 
 h1::before {
@@ -1009,6 +1009,10 @@ h4 {
 	background: #0A407E;
 }
 
+.nasuM-mainwork__tab .name p{
+	text-align: center;
+}
+
 .nasuM-mainwork__cards li:not(:last-child) {
 	margin-bottom: 40px;
 }
@@ -1045,6 +1049,7 @@ h4 {
 .nasuM-mainwork .card .cnt .date {
 	display: flex;
 	margin-bottom: 24px;
+	color: #333;
 }
 
 .nasuM-mainwork .card .cnt .dateEnd {
@@ -1225,7 +1230,7 @@ h4 {
 	font-weight: bold;
 	color: #999;
 	text-align: right;
-	z-index: 7;
+	z-index: 4;
 }
 
 /* article */
