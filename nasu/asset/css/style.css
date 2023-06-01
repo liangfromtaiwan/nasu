@@ -357,7 +357,7 @@ h4 {
 
 .mv-bg {
 	background-image: url(../img/photo/mv-bg.png);
-	background-size: cover;
+	background-size: auto;
 	background-position: top;
 }
 
@@ -370,6 +370,7 @@ h4 {
 	position: relative;
 	display: flex;
 	justify-content: flex-end;
+	align-items: center;
 }
 
 .nasu-mv .img {
@@ -411,7 +412,7 @@ h4 {
 
 
 .nasu-inf .show .ttl {
-	margin-bottom: 24px;
+	margin-bottom: 40px;
 }
 
 .nasu-inf .card {
@@ -513,6 +514,7 @@ h4 {
 .nasu-history__wrap {
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 	gap: 80px;
 }
 
@@ -1364,8 +1366,8 @@ h4 {
 	padding-top: 140px;
 }
 
-.nasuA-announce {
-	margin-bottom: 120px;
+.nasuA-announce__items {
+	margin-bottom: 60px;
 }
 
 .nasuA-announce__ttl {
@@ -1599,7 +1601,6 @@ h4 {
 
 	.nasu-mv .nasu-mv__cnt .ttl {
 		margin-bottom: 24px;
-		margin-top: 32px;
 	}
 
 	.nasu-mv .nasu-mv__cnt .txt h2 {
