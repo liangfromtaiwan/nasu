@@ -85,6 +85,16 @@ img {
 	margin: 0 auto;
 }
 
+.containers {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.containerss {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
 h1, h2, h3, h4, h5 {
 	position: relative;
 	font-weight: bold;
@@ -588,7 +598,7 @@ h4 {
 	padding: 0;
 }
 
-.nasu-mainwork .containers {
+.nasu-mainwork {
 	width: 100%;
 }
 
@@ -641,10 +651,7 @@ h4 {
 }
 
 
-.containerss {
-	max-width: 800px;
-	margin: 0 auto;
-}
+
 
 .nasu-banner__items {
 	display: flex;
